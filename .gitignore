@@ -1,0 +1,12 @@
+# .gitignore for Python/Flask projects
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+instance/
+.env
+.venv/
+leaderboard.db
+.DS_Store
